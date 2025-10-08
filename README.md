@@ -19,3 +19,11 @@ Paperless Billing and Churn Go Hand-in-Hand
      Interestingly, customers using paperless billing show a slightly higher churn rate—possibly           indicating tech-savvy users who are more price-sensitive and open to switching.
 
 Customer churn is one of the biggest threats to subscription-based businesses.
+
+├── data/                   # Raw and processed dataset
+├── notebooks/              # Jupyter notebooks for EDA and modeling
+├── models/                 # Trained model files (if applicable)
+├── visuals/                # Plots and images used in README or reports
+├── requirements.txt        # Python dependencies
+├── README.md               # Project overview
+└── churn_analysis.ipynb    # Main notebook
