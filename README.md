@@ -20,12 +20,18 @@ Paperless Billing and Churn Go Hand-in-Hand
 
 Customer churn is one of the biggest threats to subscription-based businesses.
 
-├── data/                   # Raw and processed dataset
+├── data/                        # Raw and processed dataset
+
 ├── notebooks/              # Jupyter notebooks for EDA and modeling
+
 ├── models/                 # Trained model files (if applicable)
+
 ├── visuals/                # Plots and images used in README or reports
+
 ├── requirements.txt        # Python dependencies
+
 ├── README.md               # Project overview
+
 └── churn_analysis.ipynb    # Main notebook
 
 
